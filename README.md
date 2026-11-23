@@ -160,4 +160,6 @@ Collaborative problem-solving and technology-driven innovation.
 
 ### ✨ DREAM • CREATE • INNOVATE ✨
 
-<img src="https:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
